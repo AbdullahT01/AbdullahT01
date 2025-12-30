@@ -1,4 +1,4 @@
-# Hi there, I'm Baba! 👋
+# Hi there, I'm Abdullah! 👋
 
 ### 🎓 4th Year Software Engineering Student
 
