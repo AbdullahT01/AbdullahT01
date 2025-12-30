@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Baba! 👋
 
-<!--
-**AbdullahT01/AbdullahT01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 4th Year Software Engineering Student
 
-Here are some ideas to get you started:
+I am a passionate developer and student at **Concordia University**, currently finishing my final year. With experience gained through **4** internships, I focus on building scalable software and exploring the intersection of robust backend systems and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love learning, my goal is to always be learning new things no matter where I am at!
+
+---
+
+### 🛠️ Technical Stack
+I have experience working with a variety of technologies, with a strong focus on:
+
+* **Languages:** Python, Java, 
+* **Frontend:** React, JavaScript/TypeScript
+* **Backend & Systems:** Node.js, SQL
+* **Interests:** scalability, Artificial Intelligence, System Design, Machine Learning
+
+---
+
+### 📚 Currently Learning
+I enjoy diving deep into technical concepts. Right now, I am reading:
+
+> **Designing Data-Intensive Applications** by Martin Kleppmann. 
+> *I am exploring the principles behind reliable, scalable, and maintainable systems.*
+
+---
+
+### 🚀 What drives me
+* **Software Engineering:** I love the problem-solving aspect of creating efficient, clean code.
+* **AI & Data:** I am deeply interested in how AI can be integrated into practical software solutions.
+* **Growth:** I believe in the "always be learning" mindset, whether that's mastering a new framework or understanding the OSI model deeper.
