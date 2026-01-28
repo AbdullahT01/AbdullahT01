@@ -2,7 +2,7 @@
 
 ### 🎓 4th Year Software Engineering Student
 
-I am a passionate developer and student at **Concordia University**, currently finishing my final year. With experience gained through **4** internships, I focus on building scalable software and exploring the intersection of robust backend systems and Artificial Intelligence.
+I am a passionate developer and student, currently finishing my final year. With experience gained through **4** internships, I focus on building scalable software and exploring the intersection of robust backend systems and Artificial Intelligence.
 
 I love learning, my goal is to always be learning new things no matter where I am at!
 
